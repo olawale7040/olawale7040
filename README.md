@@ -6,7 +6,6 @@
 
 [linkedin]: https://img.shields.io/static/v1?label=&message=LinkedIn&&color=3B3B7A&logo=linkedin
 [views]: https://komarev.com/ghpvc/?username=olawale7040&color=3B3B7A
-[stats]: https://github-readme-stats.vercel.app/api?username=olawale7040&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true
 [languages]: https://github-readme-stats.vercel.app/api/top-langs?username=olawale7040&layout=compact&theme=synthwave
 
 [![linkedin]](https://www.linkedin.com/in/luqman-nasirudeen-kunle-91aa72164/)
